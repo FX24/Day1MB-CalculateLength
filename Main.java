@@ -1,8 +1,4 @@
-package service
-
-import java.util.Scanner;
-
-class CalculateLength {
+class Main {
   public static void main(String[] args) {
 
     Calculate calculateService = new Calculate();
